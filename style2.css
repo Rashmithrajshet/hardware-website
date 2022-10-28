@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(7, 5, 5);
+}
+.cont{
+    margin-top: 100px;
+    margin-left: 80px;
+    height: 260px;
+    width: 300px;
+    background: #000000;
+    background: #ffa200;
+    border-radius: 10px;
+    -webkit-box-shadow: 20.5px 22.5px 32px -3px #000000;
+-moz-box-shadow: 20.5px 22.5px 32px -3px #000000;
+box-shadow: 20.5px 22.5px 32px -3px #000000;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    
+}
+.i{
+    margin-top: -50px;
+    margin-left: 95px;
+    width: 100px;
+    height: 100px;
+    border:2px solid rgb(6, 8, 8);
+    border-radius: 60px;
+    -webkit-box-shadow: 8px 12px 10px -3.5px #000000;
+-moz-box-shadow: 8px 12px 10px -3.5px #000000;
+box-shadow: 8px 12px 10px -3.5px #000000;
+}
+.name{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.main{
+    
+    height: 100px;
+    width: 250px;
+}
+.pa{
+    padding: 10px;
+    margin-left: 35px;
+    font-family:cursive;
+}
+.d1{
+    background-color: black;
+    height: 40px;
+    width: 295px;
+    margin-top: 44px;
+    margin-left: 3px;
+    border-radius: 10px;
+
+}
+.cb{
+    margin: 10px;
+    margin-top: 12px;
+    width: 65px;
+    margin-left:18px;
+    border-radius: 10px;
+    color: white;
+    background-color: #000000;
+    border:1px solid;
+    border-color:rgb(58, 211, 96); 
+    font-family: cursive;
+    cursor: pointer;
+    font-size: 10px;
+}
+.mmm{
+    display:flex ;
+    margin-left:50px;
+    
+}
+
+.dc{
+    margin-top:50px;
+    display: flex;
+    height: 400px;
+    background: rgba(237,225,235,0.4);
+-webkit-backdrop-filter: blur(8px);
+backdrop-filter: blur(8px);
+border: 1px solid rgba(237,225,235,0.2);
+
+}
+.hea{
+    color: white;
+    font-family: cursive;
+
+}
+.pa{
+    font-family: cursive;
+    color: white;
+}
+.para{
+    text-align: center;
+}
+.buttons{
+    height: 30px;
+    width: 100px;
+    color: rgb(254, 255, 255);
+    background-color: black;
+    border:2px solid rgb(5, 221, 250);
+    border-radius:10px;
+    cursor: pointer;
+}
